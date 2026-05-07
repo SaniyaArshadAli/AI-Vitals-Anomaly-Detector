@@ -1,4 +1,4 @@
-Prerequisites
+Prerequisites:
 You will need to install Kivy, Scikit-Learn, and Numpy.
 
 pip install kivy scikit-learn numpy
